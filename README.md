@@ -1,44 +1,54 @@
 # Hey, I'm Miguel 👋
 
-I'm a Computer Science student at Brescia University 🇺🇸 with a minor in Business. I'm originally from Porto, Portugal 🇵🇹, and I enjoy building things and figuring out how they work — from simple Python scripts to machine learning models and network simulations.
+I'm a Computer Science student at **Brescia University 🇺🇸**, originally from Porto, Portugal 🇵🇹, with a minor in Business.
 
-Last summer I had the chance to intern at **KPMG Portugal** as a Technology Intern, where I worked with Appian to build a low-code application for a real client project. It was my first taste of working in a professional tech environment, and it made me want more.
+I'm interested in **cybersecurity**, especially defensive security, cloud security, networking, and security monitoring. I enjoy learning by building hands-on projects and using real tools to understand how systems work and how attacks can be detected.
 
----
-
-## 🛠️ What I work with
-
-- **Languages:** Python, SQL, HTML, CSS
-- **Tools & Platforms:** Appian, Linux, GitHub, InsightMaker
-- **Areas:** Machine Learning, AI, Networking, Data Analysis
+Last summer, I interned at **KPMG Portugal** as a Technology Intern, where I worked with Appian to develop a low-code application for a real client project. That experience introduced me to working in a professional technology environment and motivated me to continue developing my technical skills.
 
 ---
 
-## 🚀 Some projects I've built
+## 🛡️ Cybersecurity & Technical Skills
 
-I learn by doing, so I'm always working on something new:
+* **Languages:** Python, SQL, HTML, CSS
+* **Cybersecurity:** Security Monitoring, Networking, Threat Detection, Incident Analysis
+* **Cloud & Security:** Microsoft Azure, Microsoft Security
+* **Tools & Platforms:** Microsoft Sentinel, Azure, Appian, Linux, GitHub, TryHackMe
+* **Certifications:** Microsoft AZ-900, Microsoft SC-900, Cisco Introduction to Cybersecurity
 
-- 🤖 **Deep Q-Learning** — reinforcement learning agent trained to make autonomous decisions
-- 📊 **KC House Clustering** — K-Means clustering to analyze Seattle's housing market data
-- 🌍 **AI Employment System Dynamics** — simulation model studying the impact of AI on workforce and employment
-- 🗄️ **University Events Database** — SQL database to manage events, participants and schedules
-- 🌐 **RIP Protocol Simulation** — network simulation demonstrating how the RIP routing protocol works
-- 🎬 **Movie Review Analyzer** — processes and evaluates movie ratings and audience feedback
-- 🌤️ **Weather App** — fetches and displays real-time weather data for any location
-- 🏐 **Player Statistics** — sports stats tracker built with Python and Tkinter
+---
+
+## 🚀 Featured Projects
+
+I learn by building practical projects and documenting what I learn along the way:
+
+* 🛡️ **Azure Honeypot SOC Lab** — deployed an intentionally exposed Windows Server VM in Azure and used Microsoft Sentinel to monitor, investigate, and analyze real-world attack traffic from the public internet
+* 🤖 **Deep Q-Learning** — reinforcement learning agent trained to make autonomous decisions
+* 📊 **KC House Clustering** — K-Means clustering applied to housing market data
+* 🌍 **AI Employment System Dynamics** — simulation model studying the potential impact of AI on employment
+* 🗄️ **University Events Database** — SQL database for managing events, participants, and schedules
+* 🌐 **RIP Protocol Simulation** — network simulation demonstrating how the RIP routing protocol works
+* 🎬 **Movie Review Analyzer** — Python application for processing and analyzing movie ratings
+* 🌤️ **Weather App** — application that retrieves real-time weather data for different locations
+
+I'm continuously adding new cybersecurity and technical projects as I learn.
 
 ---
 
 ## 📚 Currently
 
-- Finishing my **AZ-900** and **SC-900** Microsoft certifications
-- Keeping a 3.5 GPA and making the Dean's List
-- Playing volleyball for the Brescia University varsity team 🏐
-- Building more projects and pushing them here
+* 🎓 Studying **Computer Science** at Brescia University
+* 🛡️ Developing my cybersecurity skills through hands-on labs and projects
+* ☁️ Expanding my knowledge of **Azure and cloud security**
+* 🧪 Practicing security monitoring and threat analysis with **Microsoft Sentinel**
+* 📖 Learning through **TryHackMe and Microsoft Learn**
+* 🏐 Playing varsity volleyball for Brescia University
+* 💻 Building and documenting projects on GitHub
 
 ---
 
-## 📬 Let's connect
+## 📬 Let's Connect
 
-I'm always open to interesting conversations, collaborations, or opportunities.  
-Find me on [LinkedIn](https://www.linkedin.com/in/miguel-veloso-91355b372/) or just explore my repos below 👇
+I'm always open to connecting with other students, cybersecurity professionals, and people interested in technology.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/miguel-veloso-91355b372/) or explore my repositories below 👇
